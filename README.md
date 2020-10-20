@@ -1,0 +1,2 @@
+# tradingstrategyfiles
+Presentation = algothon.pdf
