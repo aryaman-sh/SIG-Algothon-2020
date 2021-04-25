@@ -1,3 +1,1 @@
-# tradingstrategyfiles
-TEAM ABJP
-Presentation = algothon.pdf
+# SIG Algothon 2020
